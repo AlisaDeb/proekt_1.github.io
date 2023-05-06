@@ -1,0 +1,16 @@
+.header {
+    background-color: var(--bg-primary);
+    
+}
+
+.header__wrapper{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 40px 0;
+
+}
+.wrapper{
+    width: calc(100% - 120px);
+    margin: 0 auto;
+}

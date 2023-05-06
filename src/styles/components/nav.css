@@ -1,0 +1,48 @@
+.nav {
+
+}
+.nav__link {
+color: var(--color-primary);
+margin-right: 60px;
+}
+
+.nav__link:nth-child(n+2):hover{
+    text-decoration: underline;
+    transform: scale(0);
+    transform-origin: center;
+    font-weight: 400;
+}
+
+.nav__link:first-child{
+    margin-right: 307px;
+    font-weight: 700;
+
+}
+
+.nav__link:last-of-type{
+    margin-right: 0px;
+}
+
+.nav__button{
+    color: var(--color-white);
+    background-color: var(--color-accent);
+    padding: 76px 32px;
+    font-size: 18px;
+    margin-left: 78px;
+    margin-right: 38px;
+    cursor: pointer;
+
+}
+
+.nav__button_round{
+    width: 174px; 
+    height: 174px;
+    border-radius: 100px; 
+    transition: transform 1s; 
+    
+}
+
+.nav__button_round:hover{
+    transform: scale(90%);
+    transition: transform 1s;
+}

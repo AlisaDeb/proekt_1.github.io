@@ -1,0 +1,33 @@
+.banner{
+
+}
+
+.banner__image{
+    width: 100%;
+    height: 450px;
+    margin-bottom: 140px;
+
+}
+.banner__image img{
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner__title{
+    width: calc(100%-68%);
+    margin-top: 174px;
+    margin-bottom: 80px;
+}
+.banner__body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.arrow{
+    margin-top: 375px;
+    margin-right: 113px;
+    margin-bottom: 92px;
+    cursor: pointer;
+  
+}

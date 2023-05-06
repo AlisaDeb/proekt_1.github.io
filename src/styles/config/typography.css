@@ -1,0 +1,31 @@
+span{
+    color: var(--color-accent);
+}
+.nav__link{
+    font-size: 18px;
+}
+h1, .h1{
+    font-size: 78px;
+    font-weight: 700;
+}
+h2, .h2 {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--color-white);
+    margin-bottom: 20px;
+}
+h3, .h3{}
+
+p, .link, .text{
+    font-size: 18px;
+}
+
+.text_small{
+    font-size: 12px;
+}
+.text_medium{
+    font-size: 24px;
+}
+.text_large {
+    font-size: 48px;
+}

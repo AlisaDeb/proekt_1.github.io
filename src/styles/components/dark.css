@@ -13,8 +13,10 @@
 .about__text{
     color: var(--color-white);
     margin-bottom: 26px;
-    margin-top: 244px;
     line-height: 28px;
+
+
+}
     
 }
 .link__arrow{

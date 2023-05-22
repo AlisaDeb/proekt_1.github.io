@@ -28,8 +28,8 @@ margin-right: 60px;
     background-color: var(--color-accent);
     padding: 76px 32px;
     font-size: 18px;
-    margin-left: 78px;
-    margin-right: 38px;
+    margin-left: 30px;
+    margin-right: -30px;
     cursor: pointer;
 
 }

@@ -1,5 +1,4 @@
 .proven{
-    width: calc(100% - 40%);
     display: flex;
     flex-direction: column;
     margin-left: 513px;

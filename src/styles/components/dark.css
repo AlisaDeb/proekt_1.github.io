@@ -14,11 +14,12 @@
     color: var(--color-white);
     margin-bottom: 26px;
     line-height: 28px;
+}
 
-
+.about__text_title{
+    margin-top: 244px;
 }
     
-}
 .link__arrow{
     color: var(--color-accent);
 }

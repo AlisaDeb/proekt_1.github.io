@@ -10,6 +10,11 @@ margin-right: 60px;
     position: relative;
 }
 
+.nav__link:nth-child(n+2):hover::before {
+    opacity: 1;
+    transform: scale(1);
+}
+
 .nav__link:nth-child(n+2)::before {
     position: absolute;
     content: '';

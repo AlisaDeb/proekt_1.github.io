@@ -14,12 +14,13 @@
 }
 
 .banner__title{
-    margin-bottom: 80px;
+    
 }
 .banner__body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 80px;
     
 }
 .arrow{

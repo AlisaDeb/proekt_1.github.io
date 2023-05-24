@@ -15,11 +15,13 @@ margin-right: 60px;
     content: '';
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: -2px;
     width: 100%;
     height: 2px;
     background-color: var(--color-primary);
-
+    transform: scale(0.5);
+    opacity: 0;
+    transition: opacity .3s ease, transform .4s ease;
 }
 
 .nav__link:first-child{

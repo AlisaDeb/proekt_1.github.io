@@ -10,6 +10,7 @@
 .focus__title {
     color: var(--color-white);
     line-height: 32px;
+    margin-bottom: 5px;
 }
 
 .focus__text {

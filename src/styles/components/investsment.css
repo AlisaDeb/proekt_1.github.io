@@ -8,12 +8,10 @@
 
 }
 
-.investment__title{
-    margin-top: 20px;
-}
 
 .investment__text{
     color: var(--color-white);
+    margin-top: 20px;
     margin-bottom: 26px;
     line-height: 28px;
 }

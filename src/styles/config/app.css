@@ -8,6 +8,7 @@
 @import url('../components/baner.css');
 @import url('../components/dark.css');
 @import url('../components/investsment.css');
+@import url('../components/focus.css');
 
 body{
     display: flex;

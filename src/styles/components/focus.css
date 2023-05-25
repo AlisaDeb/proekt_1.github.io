@@ -1,4 +1,13 @@
-.focus{
+.focus {
     display: flex;
     justify-content: space-between;
+}
+
+.focus__title {
+    color: var(--color-white);
+}
+
+.focus__text {
+    color: var(--color-white);
+
 }

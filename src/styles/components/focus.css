@@ -3,9 +3,8 @@
     justify-content: space-between;
 }
 
-.focus__column {
-    margin-right: 40px;
-}
+
+
 .focus__title {
     color: var(--color-white);
     line-height: 28px;

@@ -1,10 +1,11 @@
 .focus {
-    width: calc(33%-40px);
     display: flex;
     justify-content: space-between;
 }
 
-
+.focus__column {
+    width: calc(33%-40px);
+}
 
 .focus__title {
     color: var(--color-white);

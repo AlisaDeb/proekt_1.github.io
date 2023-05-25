@@ -5,7 +5,7 @@
 
 .focus__column {
     width: calc(33% - 40px);
-    border-top: 2px;
+    border-top: 2px solid var(--color-white);
 }
 
 .focus__title {

@@ -1,8 +1,9 @@
 .investment{
+    width: calc(100% - 40%);
     display: flex;
-    flex-direction: column;
     margin-bottom: 60px;
-   
+    flex-direction: column;
+    align-items: flex-start;
 
 }
 

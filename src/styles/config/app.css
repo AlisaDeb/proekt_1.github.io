@@ -9,6 +9,7 @@
 @import url('../components/dark.css');
 @import url('../components/investsment.css');
 @import url('../components/focus.css');
+@import url('../components/services.css');
 
 body{
     display: flex;

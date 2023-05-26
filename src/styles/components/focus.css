@@ -19,3 +19,8 @@
     line-height: 28px;
 
 }
+
+.line {
+    width: 413px;
+    border-top: 2px solid var(--color-white);
+}

@@ -4,8 +4,8 @@
 }
 
 .focus__column {
-    /*width: calc(33% - 40px);
-    padding: 20px;*/
+    /*width: calc(33% - 40px);*/
+    margin-right: 40px;
 }
 
 .focus__title {

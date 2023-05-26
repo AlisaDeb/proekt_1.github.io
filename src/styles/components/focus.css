@@ -22,5 +22,6 @@
 
 .line {
     width: 413px;
+    margin-bottom: 20px;
     border-top: 2px solid var(--color-white);
 }

@@ -1,5 +1,5 @@
 .services {
-    width: calc(91% - 40px);
+    width: calc(100% - 48%);
     display: flex;
     flex-direction: column;
 

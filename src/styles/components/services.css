@@ -1,11 +1,15 @@
 .services {
-    width: calc(100% - 48%);
+    width: calc(100% - 60%);
     display: flex;
     flex-direction: column;
 
 }
 
 .services__about {
-
+    line-height: 16px;
+    margin-bottom: 18px;
 }
+
+
+
 

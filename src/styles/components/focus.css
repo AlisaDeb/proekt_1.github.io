@@ -12,6 +12,7 @@
     color: var(--color-white);
     line-height: 32px;
     margin-bottom: 5px;
+    margin-top: 30px;
 }
 
 .focus__text {

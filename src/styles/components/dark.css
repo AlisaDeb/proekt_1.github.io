@@ -27,7 +27,7 @@
     
 .link__arrow{
     color: var(--color-accent);
-    font-weight: 700;
+    font-weight: 400;
     cursor: pointer;
 }
 .link{

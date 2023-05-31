@@ -2,12 +2,13 @@
     padding-bottom: 200px;
     display: flex;
     justify-content: space-between;
-    border-top: 2px solid var(--color-white);
+    
 }
 
 .focus__column {
     /*width: calc(33% - 40px);*/
     margin-right: 40px;
+    border-top: 2px solid var(--color-white);
 }
 
 .focus__title {

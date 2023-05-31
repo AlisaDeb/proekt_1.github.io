@@ -2,6 +2,7 @@
     padding-bottom: 200px;
     display: flex;
     justify-content: space-between;
+    border-top: 2px solid var(--color-white);
 }
 
 .focus__column {
@@ -22,8 +23,7 @@
 
 }
 
-.line {
-    width: 413px;
+.focus__icon {
     margin-bottom: 20px;
-    border-top: 2px solid var(--color-white);
+    
 }

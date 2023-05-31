@@ -7,7 +7,6 @@
 }
 .dark{
     width: 100%;
-    height: 1478px;
     background-color: var(--color-primary);
 }
 .about__text{

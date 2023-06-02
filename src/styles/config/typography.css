@@ -20,7 +20,7 @@ h3, .h3{
     font-weight: 700;
     color: var(--color-primary);
     line-height: 32px;
-    letter-spacing: -0.0025em;
+    letter-spacing: -0.005em;
 }
 
 h4 {

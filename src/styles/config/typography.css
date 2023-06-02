@@ -17,11 +17,19 @@ h2, .h2 {
     letter-spacing: -0.005em;
 }
 h3, .h3{
-    font-size: 48px;
+    font-size: 24px;
     font-weight: 700;
     color: var(--color-primary);
-    line-height: 54px;
-    letter-spacing: -0.005em;
+    line-height: 32px;
+    letter-spacing: -0.0025em;
+}
+
+h4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--color-primary);
+    line-height: 32px;
+    letter-spacing: -0.0025em;
 }
 
 p, .link, .text{

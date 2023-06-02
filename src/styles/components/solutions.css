@@ -2,3 +2,7 @@
     display: flex;
     justify-content: space-between;
 }
+
+.solutions__column {
+    width: calc(33% - 40px);
+}

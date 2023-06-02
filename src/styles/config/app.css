@@ -10,6 +10,7 @@
 @import url('../components/investsment.css');
 @import url('../components/focus.css');
 @import url('../components/services.css');
+@import url('../components/solutions.css');
 
 body{
     display: flex;

@@ -19,12 +19,4 @@
     line-height: 28px;
 }
 
-.link__arrow{
-    color: var(--color-accent);
-    font-weight: 400;
-    cursor: pointer;
-}
-.link {
-    display: flex;
-    align-items: center;
-}
+

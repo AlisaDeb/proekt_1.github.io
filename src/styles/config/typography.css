@@ -17,7 +17,6 @@ h2, .h2 {
     letter-spacing: -0.005em;
 }
 h3, .h3{
-    font-size: 24px;
     font-weight: 700;
     color: var(--color-primary);
     line-height: 32px;

@@ -5,4 +5,5 @@
 
 .solutions__column {
     width: calc(33% - 40px);
+    background-color: var(--bg-accent);
 }

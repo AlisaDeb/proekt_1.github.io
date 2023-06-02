@@ -1,9 +1,9 @@
 .proven{
-    width: 865px;
+    width: 60%;
     display: flex;
     flex-direction: column;
     padding-top: 240px;
-    margin-left: 513px;
+    margin-left: auto;
     margin-bottom: 250px;
    
 }

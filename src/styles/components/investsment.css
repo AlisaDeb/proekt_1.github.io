@@ -1,6 +1,7 @@
 .investment{
-    width: calc(100% - 40%);
+    width: 60%;
     display: flex;
+    margin-right: auto;
     margin-bottom: 60px;
     flex-direction: column;
     align-items: flex-start;

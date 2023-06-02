@@ -4,6 +4,7 @@
 .nav__link {
 color: var(--color-primary);
 margin-right: 60px;
+letter-spacing: 0.5%;
 }
 
 .nav__link:nth-child(n+2) {

@@ -26,6 +26,7 @@ h3, .h3{
 
 p, .link, .text{
     font-size: 18px;
+    letter-spacing: 0.005em;
 }
 
 .text_small{

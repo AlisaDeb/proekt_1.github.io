@@ -6,7 +6,7 @@
 .solutions__column {
     width: calc(33% - 40px);
     background-color: var(--bg-accent);
-    padding: 46px 123px 58px 40px;
+    padding: 46px 46px 58px 40px;
 }
 
 .solutions__icon {

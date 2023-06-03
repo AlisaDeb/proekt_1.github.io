@@ -8,3 +8,7 @@
     background-color: var(--bg-accent);
     padding: 46px 123px 58px 40px;
 }
+
+.solutions__icon {
+    margin-bottom: 50px;
+}

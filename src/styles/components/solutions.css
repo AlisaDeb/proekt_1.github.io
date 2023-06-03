@@ -12,3 +12,11 @@
 .solutions__icon {
     margin-bottom: 50px;
 }
+
+.solutions__text {
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--color-primary);
+    line-height: 28px;
+    letter-spacing: 0.005em;
+}

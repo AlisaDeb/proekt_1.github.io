@@ -19,7 +19,7 @@
 }
 
 
-.ul {
+ul {
     font-size: 18px;
     font-weight: 400;
     color: var(--color-primary);
@@ -27,6 +27,6 @@
     letter-spacing: 0.005em;
 }
 
-.il {
+li {
     margin-bottom: 8px;
 }

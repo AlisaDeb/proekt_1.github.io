@@ -2,6 +2,7 @@
 .team__banner{
     width: 100%;
     height: 450px;
+    margin-bottom: 60px;
 
 }
 .team__banner img{
@@ -9,3 +10,10 @@
     object-position: center;
 }
 
+.team__text {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-bottom: 200px;
+}

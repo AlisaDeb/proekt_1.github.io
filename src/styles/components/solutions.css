@@ -4,7 +4,7 @@
 }
 
 .solutions__column {
-    width: calc(33% - 40px);
+    width: calc(35% - 40px);
     background-color: var(--bg-accent);
     padding: 46px 46px 58px 40px;
 }

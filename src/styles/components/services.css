@@ -11,13 +11,16 @@
     line-height: 16px;
     margin-bottom: 18px;
     margin-top: 160px;
+    color: var( --color-primary);
 }
 
 .services__title {
     margin-bottom: 20px;
+    color: var( --color-primary);
 }
 
 .services__about_text {
+    color: var( --color-primary);
     margin-bottom: 26px;
     font-weight: 400;
     line-height: 28px;

@@ -12,7 +12,7 @@
 @import url('../components/services.css');
 @import url('../components/solutions.css');
 @import url('../components/studies.css');
-
+@import url(../components/team.css);
 
 body{
     display: flex;

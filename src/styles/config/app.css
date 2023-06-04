@@ -13,6 +13,7 @@
 @import url('../components/solutions.css');
 @import url('../components/studies.css');
 @import url(../components/team.css);
+@import url(../components/footer.css);
 
 body{
     display: flex;

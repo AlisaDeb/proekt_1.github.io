@@ -11,6 +11,8 @@
 @import url('../components/focus.css');
 @import url('../components/services.css');
 @import url('../components/solutions.css');
+@import url('../components/studies.css');
+
 
 body{
     display: flex;

@@ -5,8 +5,17 @@
 
 .mail {
     display: flex;
+    align-items: center;
+}
+.link {
+    margin-right: 20px;
 }
 
 .mail__link {
     width: 50%;
+    font-size: 72px;
+    font-weight: 400;
+    color: var(--color-accent);
+    line-height: 80px;
+    letter-spacing: -0.005em;
 }

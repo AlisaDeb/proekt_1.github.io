@@ -61,3 +61,8 @@
     cursor: pointer;
     color: var(--color-primary);
 }
+
+.completed {
+    display: flex;
+    margin-right: 7px;
+}

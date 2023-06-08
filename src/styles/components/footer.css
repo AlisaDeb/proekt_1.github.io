@@ -37,7 +37,7 @@
 }
 
 .social-media svg {
-    fill: var(--color-primary);
+    
     transition: fill 0.3s linear;
 
 }

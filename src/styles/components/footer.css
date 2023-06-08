@@ -36,12 +36,12 @@
     
 }
 
-.social-media svg {    
+.social-media svg path {    
     transition: fill 0.3s linear;
 
 }
 
-.social-media svg:hover {
+.social-media svg path:hover {
     fill: var(--color-accent);
 }
 

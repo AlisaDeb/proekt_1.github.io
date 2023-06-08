@@ -4,13 +4,12 @@
 }
 
 .footer__contacts {
-    width: 22%;
-    margin-right: 143px;
+   
 }
 
 .colunm-contacts {
     display: flex;
-
+    justify-content: space-between;
 }
 
 

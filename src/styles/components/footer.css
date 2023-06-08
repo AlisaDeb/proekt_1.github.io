@@ -3,6 +3,16 @@
     padding: 156px 0px 15px;
 }
 
+.footer__contacts {
+    
+}
+
+.colunm-contacts {
+    display: flex;
+    width: calc(22%-143px);
+}
+
+
 .mail {
     display: flex;
     align-items: center;
@@ -20,9 +30,7 @@
     letter-spacing: -0.005em;
 }
 
-.footer__contacts {
-    
-}
+
 
 .footer__title {
     margin-bottom: 10px;

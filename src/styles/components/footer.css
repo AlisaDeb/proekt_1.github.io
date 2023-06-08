@@ -36,8 +36,13 @@
     
 }
 
+.social-media {
+    fill: var(--color-primary);
+
+}
+
 .social-media:hover {
-    color: var(--color-accent);
+    fill: var(--color-accent);
 }
 
 

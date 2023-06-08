@@ -65,5 +65,7 @@
 .completed {
     display: flex;
     margin-top: 33px;
-    margin-right: 7px;
 }
+ .made {
+    margin-right: 7px;
+ }

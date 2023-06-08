@@ -34,7 +34,8 @@
     margin-right: 50px;
 }
 
-.footer__title {
+.footer__title,
+.copyright {
     margin-bottom: 10px;
 }
 

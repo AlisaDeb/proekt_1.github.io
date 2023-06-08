@@ -9,7 +9,8 @@
 
 .colunm-contacts {
     display: flex;
-    width: calc(22% - 143px);
+    justify-content: space-between;
+    margin-right: 143px;
 }
 
 

@@ -53,4 +53,5 @@
 .copyright-link {
     margin-right: 30px;
     cursor: pointer;
+    color: var(--color-primary);
 }

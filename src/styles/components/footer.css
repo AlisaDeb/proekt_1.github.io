@@ -4,7 +4,8 @@
 }
 
 .footer__contacts {
-    width: calc(22% - 143px);
+    width: 310px;
+    margin-right: 143px;
 }
 
 .colunm-contacts {

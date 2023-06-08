@@ -30,7 +30,9 @@
     letter-spacing: -0.005em;
 }
 
-
+.media {
+    margin-right: 50px;
+}
 
 .footer__title {
     margin-bottom: 10px;

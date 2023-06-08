@@ -4,13 +4,12 @@
 }
 
 .footer__contacts {
-    
+    width: calc(22% - 143px);
 }
 
 .colunm-contacts {
     display: flex;
     justify-content: space-between;
-    margin-right: 143px;
 }
 
 

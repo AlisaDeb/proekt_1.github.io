@@ -42,7 +42,7 @@
 
 }
 
-.social-media:hover svg {
+.social-media svg:hover {
     fill: var(--color-accent);
 }
 

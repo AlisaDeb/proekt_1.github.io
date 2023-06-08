@@ -36,12 +36,12 @@
     
 }
 
-.social-media {
+.media {
     fill: var(--color-primary);
 
 }
 
-.social-media:hover {
+.media:hover {
     fill: var(--color-accent);
 }
 

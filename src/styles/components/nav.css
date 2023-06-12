@@ -2,21 +2,19 @@
 
 }
 .nav__link {
-color: var(--color-primary);
-margin-right: 60px;
-letter-spacing: 0.005em;
-}
-
-.nav__link:nth-child(n+2) {
+    color: var(--color-primary);
+    margin-right: 60px;
+    letter-spacing: 0.005em;
     position: relative;
 }
 
-.nav__link:nth-child(n+2):hover::before {
+
+.nav__link:hover::before {
     opacity: 1;
     transform: scale(1);
 }
 
-.nav__link:nth-child(n+2)::before {
+.nav__link::before {
     position: absolute;
     content: '';
     left: 0;

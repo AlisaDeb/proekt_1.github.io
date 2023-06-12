@@ -14,6 +14,7 @@
 @import url('../components/studies.css');
 @import url(../components/team.css);
 @import url(../components/footer.css);
+@import url(../components/animation.css);
 
 body{
     display: flex;

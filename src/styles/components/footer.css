@@ -22,6 +22,11 @@
     margin-right: 20px;
 }
 
+.link:hover {
+    transform: scale(1.2);
+    transition: transform .45s ease-in;
+}
+
 .mail__link {
     font-size: 72px;
     font-weight: 400;

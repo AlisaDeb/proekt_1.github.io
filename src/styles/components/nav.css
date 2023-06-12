@@ -1,6 +1,11 @@
 .nav {
-
+    
 }
+
+.nav__logo {
+    color: var(--color-primary);
+}
+
 .nav__link {
     color: var(--color-primary);
     margin-right: 60px;

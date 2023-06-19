@@ -16,3 +16,18 @@
     width: calc(100% - 120px);
     margin: 0 auto;
 }
+
+
+@media screen and (max-width: var(--bp-mobile)) {
+    .wrapper {
+
+    }
+}
+
+
+@media screen and (max-width: var(--bp-tablet)) {
+    .wrapper {
+       width: calc(100% - 90px);
+        
+    }
+}

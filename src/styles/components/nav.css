@@ -2,6 +2,22 @@
     
 }
 
+
+@media (max-width: 640px) {
+    .nav {
+        display: none;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .nav {
+       width: 90vw;
+
+    }
+}
+
+
 .nav__logo {
     color: var(--color-primary);
 }

@@ -51,7 +51,7 @@ p, .link, .text, .nav__link, .nav__logo {
     h2, .h2 {
         font-size: 34px; 
     }
-    p, .link, .text, .nav__link, .nav__logo {
+    p, .link, .text, .nav__link, .logo {
         font-size: 14px;
     }
     .text_small {

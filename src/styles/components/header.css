@@ -18,16 +18,16 @@
 }
 
 
-@media screen and (max-width: var(--bp-mobile)) {
+@media (max-width: 640px) {
     .wrapper {
-
+        width: calc(100% - 40px);
     }
 }
 
 
-@media screen and (max-width: var(--bp-tablet)) {
+@media (max-width: 1024px) {
     .wrapper {
-       width: calc(100% - 90px);
-        
+       width: 90vw;
+
     }
 }

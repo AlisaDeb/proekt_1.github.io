@@ -17,6 +17,11 @@
     padding: 40px 0;
 
 }
+
+.header__burger {
+    display: none;
+ }
+
 .wrapper{
     width: calc(100% - 120px);
     margin: 0 auto;
@@ -29,7 +34,6 @@
     }
 }
 
-
 @media (max-width: 1024px) {
     .wrapper {
        width: 90vw;
@@ -37,7 +41,8 @@
     }
 }
 
-
+@media (max-width: 1320px) {
     .header__burger {
-       display: none;
+        display: block;
     }
+}

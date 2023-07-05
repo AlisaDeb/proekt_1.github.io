@@ -1,8 +1,8 @@
-@media (max-width: 640px) {
+/*@media (max-width: 640px) {
     .nav {
         display: none;
     }
-}
+}*/
 
 .nav__logo {
     color: var(--color-primary);

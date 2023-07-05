@@ -15,3 +15,10 @@
     margin-bottom: 26px;
     line-height: 28px;
 }
+
+@media (max-width: 1024px) {
+    .investment {
+       width: 100%;
+
+    }
+}

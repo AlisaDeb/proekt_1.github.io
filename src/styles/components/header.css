@@ -43,6 +43,5 @@
 
 @media (max-width: 640px) {
     .header__burger {
-        display: block;
-    }
-}
+       display: none;
+ }

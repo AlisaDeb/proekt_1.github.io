@@ -39,6 +39,11 @@
     }
 }
 
+@media (max-width: 1320px) {
+    .header__burger {
+        display: block;
+    }
+}
    
 
  

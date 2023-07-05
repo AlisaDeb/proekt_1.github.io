@@ -1,4 +1,5 @@
 .header__burger {
+    display: none;
     margin-left: auto;
 
 }
@@ -38,9 +39,6 @@
     }
 }
 
-@media (max-width: 1025px) {
-    .header__burger {
-       display: none;
-    }
-}
+   
+
  

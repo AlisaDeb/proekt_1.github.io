@@ -74,7 +74,7 @@
 }
 
 @media (max-width: 1320px) {
-    .nav-list {
+    .nav {
         display: none;
     }
 }

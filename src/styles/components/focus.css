@@ -29,7 +29,7 @@
 }
 
 @media (max-width: 1024px) {
-    .focus__column {
+    .focus {
        width: 100%;
        margin-bottom: 40px;
 

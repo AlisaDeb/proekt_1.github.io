@@ -8,6 +8,7 @@
 .focus__column {
     width: calc(33% - 40px);
     border-top: 2px solid var(--color-white);
+    flex-wrap: wrap;
 }
 
 .focus__title {

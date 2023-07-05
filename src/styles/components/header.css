@@ -18,9 +18,6 @@
 
 }
 
-.header__burger {
-    display: none;
- }
 
 .wrapper{
     width: calc(100% - 120px);
@@ -41,7 +38,9 @@
     }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 1025px) {
     .header__burger {
        display: none;
- }
+    }
+}
+ 

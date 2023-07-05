@@ -25,3 +25,10 @@
     letter-spacing: -0.005em;
     margin-bottom: 26px;
 }
+
+@media (max-width: 1024px) {
+    .team {
+       width: 100%;
+
+    }
+}

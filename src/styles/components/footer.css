@@ -79,3 +79,9 @@
  .made {
     margin-right: 7px;
  }
+
+ @media (max-width: 1024px) {
+    .mail__link {
+        font-size: 56px;
+    }
+}

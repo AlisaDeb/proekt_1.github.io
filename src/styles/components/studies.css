@@ -29,3 +29,9 @@
     line-height: 28px;
 }
 
+@media (max-width: 1024px) {
+    .studies {
+       width: 100%;
+
+    }
+}

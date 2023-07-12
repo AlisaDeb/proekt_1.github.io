@@ -37,6 +37,7 @@ ul, li {
     .solutions__column {
         width: 100%;
         margin-bottom: 40px;
+        padding: 36px 36px 48px 30px;
     }
 }
 

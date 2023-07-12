@@ -96,5 +96,6 @@
 @media (max-width: 1024px) {
     .footer__contacts {
        width: 100%;
+       margin-bottom: 40px;
     }
 }

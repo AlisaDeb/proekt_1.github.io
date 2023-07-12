@@ -30,6 +30,7 @@
 @media (max-width: 1024px) {
     .team__text {
        width: 100%;
+       margin-bottom: 170px;
 
     }
 }

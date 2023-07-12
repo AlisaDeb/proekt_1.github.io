@@ -78,7 +78,7 @@
         display: none;
     }
 
-    .nav.active {
+    .nav_active {
         padding: 20px;
         display: flex;
     }

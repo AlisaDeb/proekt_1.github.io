@@ -34,14 +34,14 @@ ul, li {
 
 
 @media (max-width: 1024px) {
-    .solution__column {
+    .solutions__column {
         width: 100%;
         margin-bottom: 40px;
     }
 }
 
 @media (max-width: 640px) {
-    .solution__column {
+    .solutions__column {
         width: 100%;
         margin-bottom: 40px;
     }

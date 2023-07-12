@@ -89,6 +89,7 @@
 
     .nav__link {
         margin-bottom: 24px;
+        color: var(--color-white);
     }
 
     .nav.nav_active {

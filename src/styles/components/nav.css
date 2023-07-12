@@ -73,13 +73,26 @@
    
 }
 
+.nav_active {
+    display: flex;
+    background-color: var(--color-primary);
+    position: fixed;
+    inset: 0;
+    z-index: 99;
+    flex-direction: column;
+}
+
 @media (max-width: 1320px) {
     .nav {
         display: none;
     }
 
+    .nav__link {
+        margin-bottom: 24px;
+    }
+
     .nav.nav_active {
-        padding: 20px;
+        padding: 80px 40px;
         display: flex;
     }
 }

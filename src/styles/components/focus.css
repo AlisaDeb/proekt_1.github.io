@@ -33,7 +33,7 @@
 @media (max-width: 1024px) {
     .focus {
        width: 100%;
-       margin-bottom: 40px;
+       padding-bottom: 160px;
 
     }
 }

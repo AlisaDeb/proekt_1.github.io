@@ -35,9 +35,8 @@
        margin-bottom: 150px;
 
     }
-}
 
-@media (max-width: 1024px) {
     .studies__about {
-        margin-top: 150px;    }
+        margin-top: 150px;   
+    }
 }

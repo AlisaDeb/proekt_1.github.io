@@ -39,6 +39,13 @@
     }
 }
 
+
+@media (max-width: 1320px) {
+    .header {
+        margin-top: 0px;
+    }
+}
+
 @media (max-width: 1320px) {
     .header__burger {
         display: block;

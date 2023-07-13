@@ -9,6 +9,7 @@ buttonBurger.addEventListener('click', (event) => {
         body.style.overflow = 'hidden'
         navHeader.classList.add('nav_active')
     } else {
+        body.style.overflow = ''
         navHeader.classList.remove('nav_active')
     }
 

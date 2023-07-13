@@ -1,6 +1,7 @@
 .header__burger {
     display: none;
     margin-left: auto;
+    z-index: 100;
 
 }
 

@@ -1,5 +1,7 @@
 .nav__logo {
     color: var(--color-primary);
+    position: relative;
+    z-index: 1;
 }
 
 .nav__link {
@@ -96,11 +98,10 @@
         padding: 80px 40px;
         display: flex;
     }
-
-    .nav__logo {
-        color: var(--color-white);
-        position: relative;
-        z-index: 1;
-    }
-    
+  
 }
+
+/*.nav__logo {
+    color: var(--color-white);
+  
+}*/

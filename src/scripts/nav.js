@@ -3,6 +3,10 @@ const navHeader = document.querySelector('.js-nav')
 
 buttonBurger.addEventListener('click', (event) => {
     
-    navHeader.classList.add('nav_active')
-
+    if(navHeader.classList.contains('nav_active')) {
+        navHeader.classList.remove('nav_active')
+    } else {
+        navHeader.classList.add('nav_active')
+    }
+    
 })

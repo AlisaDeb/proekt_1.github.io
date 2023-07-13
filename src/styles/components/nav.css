@@ -98,10 +98,11 @@
         padding: 80px 40px;
         display: flex;
     }
+
+    .nav__logo {
+        color: var(--color-white);
+      
+    }
   
 }
 
-/*.nav__logo {
-    color: var(--color-white);
-  
-}*/
